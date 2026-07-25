@@ -7,3 +7,5 @@ Clone this repository and run the script:
 ```bash
 git clone https://github.com/19felix-au/python-todo-list-80.git
 ```
+
+*Initialized by platform-lead-81 workspace automation.*
